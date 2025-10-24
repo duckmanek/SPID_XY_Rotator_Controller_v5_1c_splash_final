@@ -1,5 +1,5 @@
 # 🛰️ SPID XY ROTATOR CONTROLLER by SP1JMF
-**Wersja:** v5.2c PRO FINAL ICON+
+**Wersja:** v5.1c SPLASH FINAL
 
 Zaawansowana aplikacja do sterowania rotorami anten SPID MD-03 i kompatybilnymi, z funkcjami śledzenia satelitów, integracją z PSTrotator, oraz obsługą przez USB i TCP.
 
