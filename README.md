@@ -1,0 +1,2 @@
+# SPID_XY_Rotator_Controller_v5_1c_splash_final
+SPID xy rotator control software
